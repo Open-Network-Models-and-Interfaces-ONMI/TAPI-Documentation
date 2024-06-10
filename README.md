@@ -14,4 +14,6 @@ This repository collects the TAPI documentation, composed by:
 
   - **_TAPI Alarm TCA List_** 
 
+- **_TAPI Delta Document_**
+
 - **_TAPI Gendoc Templates_**

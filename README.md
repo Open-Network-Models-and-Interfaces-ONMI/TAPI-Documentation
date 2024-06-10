@@ -10,14 +10,8 @@ This repository collects the TAPI documentation, composed by:
   
   - This document is a supplement to the TR-547, to explain TAPI streaming and provide a set of ***guidelines and recommendations*** for use of TAPI streaming.
 
-- **_TAPI Reference Implementation Agreement - Ancillary Documents_**
+- **_TAPI Reference Implementation Agreement - Ancillary Document_**
 
   - **_TAPI Alarm TCA List_** 
-
-  - **_TAPI Notification and Streaming Sequences_**
-
-- **_TAPI Delta Documentation_**
-
-- **_TAPI Tooling Guidelines_**
 
 - **_TAPI Gendoc Templates_**

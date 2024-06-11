@@ -18,3 +18,7 @@ This repository collects the TAPI documentation, composed by:
 
 - **_TAPI Delta Document_**
 
+- **_TAPI Gendoc Templates_**
+
+- **_TAPI Tooling Guidelines_**
+

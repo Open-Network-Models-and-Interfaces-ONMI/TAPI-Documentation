@@ -45,7 +45,7 @@ As TAPI 2.5.x is also a TIP recommended release a detailed differences between 2
 [**_HighLevelDiff_Tapi2.1.3To2.5.2.pdf_**](https://github.com/Open-Network-Models-and-Interfaces-ONMI/TAPI-Documentation/blob/v2.5.2/DeltaDocument/HighLevelDiff_Tapi2.1.3To2.5.2.pdf)  highlights the key changes from 2.1.3 to 2.5.2
 
 **Summary of changes**
-- Correction to remove "cofig false" YANG issue
+- Correction to remove "config false" YANG issue
 - Addition of paginated get (experimental)
 - String field restrictions relaxed to “any conformant YANG string” throughout. Explanation added in TR-547 section 2.8 String fields.
 - Various minor improvements to documentation
